@@ -1,0 +1,5 @@
+.cubestore/*
+.env
+
+*.code-workspace
+
